@@ -1,0 +1,1034 @@
+canonical_identifier: bkk:krp/KR6q0184/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0184/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易禪解
+  identifiers:
+    krp: KR6q0184
+    cbeta: J20nB096
+    cbeta_old_id: J20nB096
+    authorityid: CA0004113
+    json_key: JB096
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J20/J20nB096.xml
+    old_id: J20nB096
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0184_000-J.yaml, hash: 'sha256:0bf916a799c1675190b05f2c846483450c80d1557bc7315dc1468b62d4fe7f67'}
+  - {seq: 1, filename: KR6q0184_001-J.yaml, hash: 'sha256:cce2cec0bba9ebfed2635515af62a70942a3a5fae2f47de60b437a23894839dd'}
+  - {seq: 2, filename: KR6q0184_002-J.yaml, hash: 'sha256:99d5ce4a2b214fe2b9783eae4bdf0588421acde5cfe86423b904fc5438404232'}
+  - {seq: 3, filename: KR6q0184_003-J.yaml, hash: 'sha256:91d7d0ea0618911a70aae3a0e3c4159fbc03495d667217ebf71290dec63e1e0e'}
+  - {seq: 4, filename: KR6q0184_004-J.yaml, hash: 'sha256:07c5bc2131ce59055346f24f2740c8bd8462092735a61043ae51ddb39c6eec08'}
+  - {seq: 5, filename: KR6q0184_005-J.yaml, hash: 'sha256:6f68d585241140a83b491bc1229ac1ad9eefe6e4535f013e2df80e4268671f4b'}
+  - {seq: 6, filename: KR6q0184_006-J.yaml, hash: 'sha256:548bba26f1ac2ffeeceb95be1e617675a35ad28c92677f224d91a0192d5b645b'}
+  - {seq: 7, filename: KR6q0184_007-J.yaml, hash: 'sha256:6d6943ed6c1cdb65fa197bd7de6a15c6b0b9a3db8cec72162437b46683edf320'}
+  - {seq: 8, filename: KR6q0184_008-J.yaml, hash: 'sha256:ccc51bf2d8be8f1130d3db38f702349d717066c536851b839b190df5010955d2'}
+  - {seq: 9, filename: KR6q0184_009-J.yaml, hash: 'sha256:a6bf962110dc280f1974634f7cc34831a6f1a5f912c92d2b78409a6ac71fde38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0184_000-J.markers.yaml, hash: 'sha256:1651b255a10b0b5d6e5a4a39705c992dd696c318cf835ca718814eda3baf8374'}
+  - {seq: 1, role: markers, filename: assets/KR6q0184_001-J.markers.yaml, hash: 'sha256:0a7eddfbf7f2f2c47468af1f7ba9b52e3a648fc407d970653b424a6c0eff0995'}
+  - {seq: 2, role: markers, filename: assets/KR6q0184_002-J.markers.yaml, hash: 'sha256:25e1f8a75dea07090b4dab5bad6da24b5fbb322d4cfb79bc7a1b563223ec6a03'}
+  - {seq: 3, role: markers, filename: assets/KR6q0184_003-J.markers.yaml, hash: 'sha256:7f9b557cff0acc9a7c7965fbc1b7d1cdebd9f4e40c6beb1f5664e39f65480016'}
+  - {seq: 4, role: markers, filename: assets/KR6q0184_004-J.markers.yaml, hash: 'sha256:a4c4804868377333d615a6ca11b94c2e757722cde73eca7f78d4394c8413fc96'}
+  - {seq: 5, role: markers, filename: assets/KR6q0184_005-J.markers.yaml, hash: 'sha256:26fa1cd807f64d5d008b80c6f42d07311316f1b10b9b5d2370d0b2b656ed3f4f'}
+  - {seq: 6, role: markers, filename: assets/KR6q0184_006-J.markers.yaml, hash: 'sha256:b74731323aaf8209ef5fd0542e226d5e696f7f5fedf1a00b37c0d98213dc391f'}
+  - {seq: 7, role: markers, filename: assets/KR6q0184_007-J.markers.yaml, hash: 'sha256:20bab5050e50e79e37d901154d2cac240f46df61caac02a25a255223cf3395cc'}
+  - {seq: 8, role: markers, filename: assets/KR6q0184_008-J.markers.yaml, hash: 'sha256:3c24adc0b37c65475902fb5863899b43eb5b8e49c08b4938ac0455bfe6128135'}
+  - {seq: 9, role: markers, filename: assets/KR6q0184_009-J.markers.yaml, hash: 'sha256:f674d28d08f594403400ff91767a3e4948f87292f9048520a7b81ca218d845e6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0184_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 周易禪解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0184_J_000-mulu-2
+    span:
+    - front
+    - 691
+    - 691
+  label: 周易禪解目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0184_J_000-mulu-3
+    span:
+    - front
+    - 897
+    - 897
+  label: 較刻易禪紀事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0184_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 10739
+  label: 周易禪解卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0184_J_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0184_J_001-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0184_J_001-mulu-3
+    span:
+    - body
+    - 532
+    - 532
+  label: 乾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0184_J_001-mulu-4
+    span:
+    - body
+    - 6731
+    - 6731
+  label: 坤
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 10049
+  label: 周易禪解卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 屯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-3
+    span:
+    - body
+    - 2022
+    - 2022
+  label: 蒙
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-4
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 需
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-5
+    span:
+    - body
+    - 4191
+    - 4191
+  label: 訟
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-6
+    span:
+    - body
+    - 5316
+    - 5316
+  label: 師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-7
+    span:
+    - body
+    - 6582
+    - 6582
+  label: 比
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-8
+    span:
+    - body
+    - 8005
+    - 8005
+  label: 小畜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0184_J_002-mulu-9
+    span:
+    - body
+    - 9207
+    - 9207
+  label: 履
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 10848
+  label: 周易禪解卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上經之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 泰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-3
+    span:
+    - body
+    - 1277
+    - 1277
+  label: 否
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-4
+    span:
+    - body
+    - 2313
+    - 2313
+  label: 同人
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-5
+    span:
+    - body
+    - 3645
+    - 3645
+  label: 大有
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-6
+    span:
+    - body
+    - 4763
+    - 4763
+  label: 謙
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-7
+    span:
+    - body
+    - 6160
+    - 6160
+  label: 豫
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-8
+    span:
+    - body
+    - 7261
+    - 7261
+  label: 隨
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-9
+    span:
+    - body
+    - 8099
+    - 8099
+  label: 蠱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-10
+    span:
+    - body
+    - 9233
+    - 9233
+  label: 臨
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0184_J_003-mulu-11
+    span:
+    - body
+    - 9918
+    - 9918
+  label: 觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 9375
+  label: 周易禪解卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上經之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 噬嗑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-3
+    span:
+    - body
+    - 882
+    - 882
+  label: 賁
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-4
+    span:
+    - body
+    - 1841
+    - 1841
+  label: 剝
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-5
+    span:
+    - body
+    - 2847
+    - 2847
+  label: 復
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-6
+    span:
+    - body
+    - 4000
+    - 4000
+  label: 無妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-7
+    span:
+    - body
+    - 5270
+    - 5270
+  label: 大畜
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-8
+    span:
+    - body
+    - 6218
+    - 6218
+  label: 頤
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-9
+    span:
+    - body
+    - 7080
+    - 7080
+  label: 大過
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-10
+    span:
+    - body
+    - 7842
+    - 7842
+  label: 坎
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0184_J_004-mulu-11
+    span:
+    - body
+    - 8622
+    - 8622
+  label: 離
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 11799
+  label: 周易禪解卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 下經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-2
+    span:
+    - body
+    - 138
+    - 138
+  label: 咸
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-3
+    span:
+    - body
+    - 1193
+    - 1193
+  label: 恒
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-4
+    span:
+    - body
+    - 2102
+    - 2102
+  label: 遯
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-5
+    span:
+    - body
+    - 2860
+    - 2860
+  label: 大壯
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-6
+    span:
+    - body
+    - 3497
+    - 3497
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-7
+    span:
+    - body
+    - 4537
+    - 4537
+  label: 明夷
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-8
+    span:
+    - body
+    - 5218
+    - 5218
+  label: 家人
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-9
+    span:
+    - body
+    - 5984
+    - 5984
+  label: 暌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-10
+    span:
+    - body
+    - 7516
+    - 7516
+  label: 蹇
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-11
+    span:
+    - body
+    - 8494
+    - 8494
+  label: 解
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-12
+    span:
+    - body
+    - 9655
+    - 9655
+  label: 損
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0184_J_005-mulu-13
+    span:
+    - body
+    - 10562
+    - 10562
+  label: 益
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 11619
+  label: 周易禪解卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 下經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 夬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-3
+    span:
+    - body
+    - 934
+    - 934
+  label: 姤
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-4
+    span:
+    - body
+    - 2097
+    - 2097
+  label: 萃
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-5
+    span:
+    - body
+    - 2968
+    - 2968
+  label: 升
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-6
+    span:
+    - body
+    - 3624
+    - 3624
+  label: 困
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-7
+    span:
+    - body
+    - 4498
+    - 4498
+  label: 井
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-8
+    span:
+    - body
+    - 5338
+    - 5338
+  label: 革
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-9
+    span:
+    - body
+    - 6150
+    - 6150
+  label: 鼎
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-10
+    span:
+    - body
+    - 7022
+    - 7022
+  label: 震
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-11
+    span:
+    - body
+    - 8026
+    - 8026
+  label: 艮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-12
+    span:
+    - body
+    - 9283
+    - 9283
+  label: 漸
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0184_J_006-mulu-13
+    span:
+    - body
+    - 10343
+    - 10343
+  label: 歸妹
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 9654
+  label: 周易禪解卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 下經之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 豐
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-3
+    span:
+    - body
+    - 995
+    - 995
+  label: 旅
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-4
+    span:
+    - body
+    - 1971
+    - 1971
+  label: 巽
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-5
+    span:
+    - body
+    - 2840
+    - 2840
+  label: 兌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-6
+    span:
+    - body
+    - 3482
+    - 3482
+  label: 渙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-7
+    span:
+    - body
+    - 4292
+    - 4292
+  label: 節
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-8
+    span:
+    - body
+    - 5138
+    - 5138
+  label: 中孚
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-9
+    span:
+    - body
+    - 6449
+    - 6449
+  label: 小過
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-10
+    span:
+    - body
+    - 7911
+    - 7911
+  label: 既濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0184_J_007-mulu-11
+    span:
+    - body
+    - 8799
+    - 8799
+  label: 未濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0184_J_008-juan-start
+    span:
+    - body
+    - 0
+    - 9236
+  label: 周易禪解卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0184_J_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 繫辭上傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-juan-start
+    span:
+    - body
+    - 0
+    - 12596
+  label: 周易禪解卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 繫辭下傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-2
+    span:
+    - body
+    - 5866
+    - 5866
+  label: 說卦傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-3
+    span:
+    - body
+    - 8513
+    - 8513
+  label: 序卦傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-4
+    span:
+    - body
+    - 9481
+    - 9481
+  label: 雜卦傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-5
+    span:
+    - body
+    - 10585
+    - 10585
+  label: 易解跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-6
+    span:
+    - body
+    - 10910
+    - 10910
+  label: 河圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-7
+    span:
+    - body
+    - 11488
+    - 11488
+  label: 洛書說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-8
+    span:
+    - body
+    - 11664
+    - 11664
+  label: 伏羲八卦次序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-9
+    span:
+    - body
+    - 11906
+    - 11906
+  label: 伏羲八卦方位說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-10
+    span:
+    - body
+    - 11995
+    - 11995
+  label: 伏羲六十四卦次序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-11
+    span:
+    - body
+    - 12038
+    - 12038
+  label: 伏羲六十四卦方位說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-12
+    span:
+    - body
+    - 12213
+    - 12213
+  label: 文王八卦次序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-13
+    span:
+    - body
+    - 12373
+    - 12373
+  label: 文王八卦方位說
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0184_J_009-mulu-14
+    span:
+    - body
+    - 12436
+    - 12436
+  label: 短記
+  type: mulu
+  level: 1
+hash: sha256:7551b26b41f5468c0571a9cd0ccaf1386e98b6c46638f66857560913cfc92b16
