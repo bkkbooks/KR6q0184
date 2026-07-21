@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0184_000-J.yaml, hash: 'sha256:0bf916a799c1675190b05f2c846483450c80d1557bc7315dc1468b62d4fe7f67'}
+  - {seq: 0, filename: KR6q0184_000-J.yaml, hash: 'sha256:3d4cecc3d2e5508db6675748d15fb7b56274ede6202acbb260b72da645ee596c'}
   - {seq: 1, filename: KR6q0184_001-J.yaml, hash: 'sha256:cce2cec0bba9ebfed2635515af62a70942a3a5fae2f47de60b437a23894839dd'}
   - {seq: 2, filename: KR6q0184_002-J.yaml, hash: 'sha256:99d5ce4a2b214fe2b9783eae4bdf0588421acde5cfe86423b904fc5438404232'}
   - {seq: 3, filename: KR6q0184_003-J.yaml, hash: 'sha256:91d7d0ea0618911a70aae3a0e3c4159fbc03495d667217ebf71290dec63e1e0e'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6q0184_008-J.yaml, hash: 'sha256:ccc51bf2d8be8f1130d3db38f702349d717066c536851b839b190df5010955d2'}
   - {seq: 9, filename: KR6q0184_009-J.yaml, hash: 'sha256:a6bf962110dc280f1974634f7cc34831a6f1a5f912c92d2b78409a6ac71fde38'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0184_000-J.markers.yaml, hash: 'sha256:1651b255a10b0b5d6e5a4a39705c992dd696c318cf835ca718814eda3baf8374'}
+  - {seq: 0, role: markers, filename: assets/KR6q0184_000-J.markers.yaml, hash: 'sha256:d15a07c9f5692593a3bf781b6ac60052b66427be48ff414d63c629669f92a500'}
   - {seq: 1, role: markers, filename: assets/KR6q0184_001-J.markers.yaml, hash: 'sha256:0a7eddfbf7f2f2c47468af1f7ba9b52e3a648fc407d970653b424a6c0eff0995'}
   - {seq: 2, role: markers, filename: assets/KR6q0184_002-J.markers.yaml, hash: 'sha256:25e1f8a75dea07090b4dab5bad6da24b5fbb322d4cfb79bc7a1b563223ec6a03'}
   - {seq: 3, role: markers, filename: assets/KR6q0184_003-J.markers.yaml, hash: 'sha256:7f9b557cff0acc9a7c7965fbc1b7d1cdebd9f4e40c6beb1f5664e39f65480016'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 周易禪解序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-2
     span:
-    - front
+    - body
     - 691
     - 691
   label: 周易禪解目錄
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-3
     span:
-    - front
+    - body
     - 897
     - 897
   label: 較刻易禪紀事
@@ -1031,4 +1031,4 @@ table_of_contents:
   label: 短記
   type: mulu
   level: 1
-hash: sha256:7551b26b41f5468c0571a9cd0ccaf1386e98b6c46638f66857560913cfc92b16
+hash: sha256:bf55ec08ebc00d9e11f5c7d5e1e042a94f65d794443b5f60b9b1780c78e64dde

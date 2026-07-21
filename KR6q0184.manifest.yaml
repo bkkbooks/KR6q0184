@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0184_000.yaml, hash: 'sha256:3fb280e186031606d2bf40dbe3bc5e363d041b345b0b56077964fd022ab9bdc7'}
+  - {seq: 0, filename: KR6q0184_000.yaml, hash: 'sha256:8cd91ce91db622c06f25a1a0fe3edd59be3c95732d277f9b56d959a2d5655ba3'}
   - {seq: 1, filename: KR6q0184_001.yaml, hash: 'sha256:44dcc35041cb8451141c5368169de11b93b9e8159bd4899582fe7c10f0179312'}
   - {seq: 2, filename: KR6q0184_002.yaml, hash: 'sha256:09b5ad7ceb5e9b2882db084b9b4d511995ccb3e83b742fc01bcd05614e0d38d5'}
   - {seq: 3, filename: KR6q0184_003.yaml, hash: 'sha256:1e00c18cbdfbd1e6c27a7eb1cc3d7047dcfdc2d26345c456247dc4418da48e38'}
@@ -32,7 +32,7 @@ assets:
   - {seq: 8, filename: KR6q0184_008.yaml, hash: 'sha256:acbd8c940d11f95c4ae9eefbbef6dd7df555cd4338a1a12ef80506b5d18bcba1'}
   - {seq: 9, filename: KR6q0184_009.yaml, hash: 'sha256:66e040a62e986eae80735cfe2791e6e3b66c8957a9712b10be049636b40b9ae8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0184_000.markers.yaml, hash: 'sha256:be94b46ffeca9461431532f33c1856b55c06dea8530fc2203427105d288aa003'}
+  - {seq: 0, role: markers, filename: assets/KR6q0184_000.markers.yaml, hash: 'sha256:286d2031621991ff1f543a82730d246ae624186013723f8f44bbe63f8401757a'}
   - {seq: 1, role: markers, filename: assets/KR6q0184_001.markers.yaml, hash: 'sha256:1b0b8571f2c1c241ffc14ada83689922bb39bb0279c970a724ac6ca83d919e4e'}
   - {seq: 2, role: markers, filename: assets/KR6q0184_002.markers.yaml, hash: 'sha256:7333a270c5e05954df08c6630ae6de5328da8828bd88eb8bc2d984bcca4ad592'}
   - {seq: 3, role: markers, filename: assets/KR6q0184_003.markers.yaml, hash: 'sha256:43ed4fe2a3ba18ce800f098ef9c7ea07a87476c6de2bfc1cd8c0d080a2d98351'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 周易禪解序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-2
     span:
-    - front
+    - body
     - 691
     - 691
   label: 周易禪解目錄
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0184_J_000-mulu-3
     span:
-    - front
+    - body
     - 897
     - 897
   label: 較刻易禪紀事
@@ -1033,7 +1033,7 @@ table_of_contents:
   label: 短記
   type: mulu
   level: 1
-hash: sha256:fef96a072ca4722e37a72e35c9d7ed03108121fa1fb8e4cfaec9c56dd03347d6
+hash: sha256:943bfcdd125c4b9923e5b455615393a6be21fe1bd8f6db9b115eb260b292441f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
